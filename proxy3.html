@@ -1,13 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Search Engine</title>
+	<title>Website Search</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="search.js"></script>
 </head>
 <body>
-	<form action="https://www.google.com/search" method="get">
-		<label for="search-input">Search:</label>
-		<input type="text" id="search-input" name="q">
-		<button type="submit">Search</button>
-	</form>
+	<header>
+		<h1>My Website</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Search</h2>
+			<form id="search-form" onsubmit="return search()">
+				<input type="text" id="search-input" placeholder="Search...">
+				<button type="submit">Go</button>
+			</form>
+			<div id="search-results"></div>
+		</section>
+		<section>
+			<h2>Content</h2>
+			<!-- Add your website content here -->
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 NotKenetic</p>
+	</footer>
 </body>
 </html>
