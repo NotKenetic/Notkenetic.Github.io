@@ -2,8 +2,6 @@
 <html>
 <head>
 	<title>Website Search</title>
-	<link rel="stylesheet" href="style.css">
-	<script src="search.js"></script>
 </head>
 <body>
 	<header>
@@ -19,9 +17,9 @@
 	<main>
 		<section>
 			<h2>Search</h2>
-			<form id="search-form" onsubmit="return search()">
+			<form>
 				<input type="text" id="search-input" placeholder="Search...">
-				<button type="submit">Go</button>
+				<button type="button" onclick="search()">Go</button>
 			</form>
 			<div id="search-results"></div>
 		</section>
@@ -31,7 +29,40 @@
 		</section>
 	</main>
 	<footer>
-		<p>&copy; 2023 NotKenetic</p>
+		<p>&copy; 2023 My Website</p>
 	</footer>
+	<script>
+		function search() {
+			var query = document.getElementById('search-input').value;
+			var results = document.getElementById('search-results');
+			results.innerHTML = '';
+			if (query.length < 3) {
+				results.innerHTML = '<p>Search query must be at least 3 characters</p>';
+				return false;
+			}
+			var content = document.querySelectorAll('main section:not(:first-of-type) *');
+			var count = 0;
+			for (var i = 0; i < content.length; i++) {
+				if (content[i].textContent.toUpperCase().indexOf(query.toUpperCase()) >= 0) {
+					var result = document.createElement('div');
+					var title = document.createElement('h2');
+					var link = document.createElement('a');
+					var text = document.createElement('p');
+					title.textContent = content[i].parentNode.querySelector('h2,h3,h4,h5,h6').textContent;
+					link.href = '#' + count;
+					link.textContent = content[i].textContent.substr(0, 50) + '...';
+					text.innerHTML = content[i].textContent;
+					result.appendChild(title);
+					result.appendChild(link);
+					result.appendChild(text);
+					results.appendChild(result);
+					count++;
+				}
+			}
+			if (count == 0) {
+				results.innerHTML = '<p>No results found</p>';
+			}
+		}
+	</script>
 </body>
 </html>
