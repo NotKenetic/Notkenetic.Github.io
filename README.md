@@ -167,7 +167,7 @@ NotKenetic
 <html>
 <head>
   <title>Cloakers</title>
-  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/NotKenetic/NotKenetic.github.io/main/Lemy.png">
   <script>
     function changeTab(title, favicon) {
       document.title = title;
@@ -177,10 +177,10 @@ NotKenetic
   </script>
 </head>
 <body>
-  <button onclick="changeTab('Games', 'https://static.wikia.nocookie.net/logopedia/images/1/1c/Coolmath_Games_2018_Icon.png/revision/latest?cb=20220528144902')">Cloaker Games</button>
+  <button onclick="changeTab('Games', 'https://raw.githubusercontent.com/NotKenetic/NotKenetic.github.io/main/Lemy.png)">Cloaker Games</button>
  
-     <button onclick="changeTab('Classes', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxl9AdlpZuyrwP8HeX_payem7KHA3KJawKWKaq17pMA&s')">Cloaker Classes</button>
- <button onclick="changeTab('Google', 'https://cdn-icons-png.flaticon.com/512/2991/2991148.png')">Cloaker Google</button>
+     <button onclick="changeTab('Classes', 'https://raw.githubusercontent.com/NotKenetic/NotKenetic.github.io/main/Lemy.png')">Cloaker Classes</button>
+ <button onclick="changeTab('Google', 'https://raw.githubusercontent.com/NotKenetic/NotKenetic.github.io/main/Lemy.png')">Cloaker Google</button>
     
 </body>
 </html>
@@ -196,11 +196,11 @@ NotKenetic
 		</div>
 		<div>
 			<h2>Section 2</h2>
-			<p>Duis ullamcorper magna nec massa faucibus fringilla. Mauris ut augue malesuada, mattis odio vitae, tristique mi. Sed ut consequat purus.</p>
+			<p>Welcome to NOTKENETIC</p>
 		</div>
 	</section>
 	<footer>
-		<p>&copy; 2022 My Website. All rights reserved.</p>
+		<p>&copy; 2023 NotKenetic. All rights reserved.</p>
 	</footer>
 </body>
 </html>
