@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>My Complex Homepage</title>
+	<title>NotKenetic</title>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
 	<style>
 		body {
@@ -89,7 +88,7 @@
 </head>
 <body>
 	<header>
-		<h1>Welcome to my website</h1>
+		<h1>Welcome to NotKenetic</h1>
 	</header>
 	<nav>
 		<a href="#">Home</a>
@@ -100,30 +99,7 @@
 	<section>
 		<div>
 			<h2>Section 1</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel magna neque. Suspendisse et faucibus quam. Duis varius eros nisl, eu viverra mauris ultricies vel.</p>
-		</div>
-		<div>
-			<img src="section-img1.jpg" alt="Section 1 Image">
-		</div>
-	</section>
-	<section>
-		<div>
-			<img src="section-img2.jpg" alt="Section 2 Image">
-		</div>
-		<div>
-			<h2>Section 2</h2>
-			<p>Duis ullamcorper magna nec massa faucibus fringilla. Mauris ut augue malesuada, mattis odio vitae, tristique mi. Sed ut consequat purus.</p>
-		</div>
-	</section>
-	<footer>
-		<p>&copy; 2022 My Website. All rights reserved.</p>
-	</footer>
-</body>
-</html>
-
-
-
-# NotKenetic
+			<p># NotKenetic
 Dear Gamers,
 
 Welcome to NotKenetic! We are thrilled to have you here and are excited to be a part of your gaming journey.
@@ -208,3 +184,26 @@ NotKenetic
     
 </body>
 </html>
+</p>
+		</div>
+		<div>
+			<img src="section-img1.jpg" alt="Section 1 Image">
+		</div>
+	</section>
+	<section>
+		<div>
+			<img src="section-img2.jpg" alt="Section 2 Image">
+		</div>
+		<div>
+			<h2>Section 2</h2>
+			<p>Duis ullamcorper magna nec massa faucibus fringilla. Mauris ut augue malesuada, mattis odio vitae, tristique mi. Sed ut consequat purus.</p>
+		</div>
+	</section>
+	<footer>
+		<p>&copy; 2022 My Website. All rights reserved.</p>
+	</footer>
+</body>
+</html>
+
+
+
