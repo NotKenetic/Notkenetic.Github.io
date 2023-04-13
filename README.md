@@ -1,4 +1,129 @@
-# NotKenetic.github.io
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Complex Homepage</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+	<style>
+		body {
+			font-family: 'Open Sans', sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #f2f2f2;
+		}
+		header {
+			background-image: url('header-bg.jpg');
+			background-size: cover;
+			height: 400px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			color: #fff;
+		}
+		h1 {
+			font-size: 64px;
+			margin: 0;
+			padding: 0;
+			text-shadow: 2px 2px #000;
+		}
+		nav {
+			background-color: #5c5c5c;
+			height: 60px;
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			align-items: center;
+		}
+		nav a {
+			color: #fff;
+			text-decoration: none;
+			font-size: 20px;
+			padding: 20px;
+		}
+		nav a:hover {
+			background-color: #fff;
+			color: #5c5c5c;
+		}
+		section {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: center;
+			align-items: flex-start;
+			padding: 40px;
+			background-color: #fff;
+			margin: 40px 0;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+		}
+		section h2 {
+			font-size: 36px;
+			margin: 0;
+			padding: 20px;
+		}
+		section p {
+			font-size: 18px;
+			line-height: 1.5;
+			margin: 0;
+			padding: 20px;
+		}
+		section img {
+			max-width: 100%;
+			height: auto;
+			margin: 20px;
+		}
+		footer {
+			background-color: #333;
+			height: 100px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			color: #fff;
+		}
+		footer p {
+			margin: 0;
+			padding: 0;
+			font-size: 18px;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Welcome to my website</h1>
+	</header>
+	<nav>
+		<a href="#">Home</a>
+		<a href="#">About</a>
+		<a href="#">Services</a>
+		<a href="#">Contact</a>
+	</nav>
+	<section>
+		<div>
+			<h2>Section 1</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel magna neque. Suspendisse et faucibus quam. Duis varius eros nisl, eu viverra mauris ultricies vel.</p>
+		</div>
+		<div>
+			<img src="section-img1.jpg" alt="Section 1 Image">
+		</div>
+	</section>
+	<section>
+		<div>
+			<img src="section-img2.jpg" alt="Section 2 Image">
+		</div>
+		<div>
+			<h2>Section 2</h2>
+			<p>Duis ullamcorper magna nec massa faucibus fringilla. Mauris ut augue malesuada, mattis odio vitae, tristique mi. Sed ut consequat purus.</p>
+		</div>
+	</section>
+	<footer>
+		<p>&copy; 2022 My Website. All rights reserved.</p>
+	</footer>
+</body>
+</html>
+
+
+
+# NotKenetic
 Dear Gamers,
 
 Welcome to NotKenetic! We are thrilled to have you here and are excited to be a part of your gaming journey.
