@@ -30,10 +30,7 @@ NotKenetic
 
 
 
-
-
-
-
+<button onclick="window.location.href='https://notkenetic.github.io/windows.html'">Go to Windows page</button>
 
 
 
