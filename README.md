@@ -24,6 +24,9 @@ NotKenetic
 
 
 
+<head>
+	<link rel="icon" href="https://github.com/NotKenetic/notkenetic.github.io/raw/main/Lemy.png" type="image/x-icon">
+</head>
 
 
 
