@@ -7,9 +7,9 @@
 		color: red;
 		font-size: 50px;
 		margin: 0px;
+		text-allign: center;
 		}
-	
-	
+		</style>
 	</head>
 	<link rel="icon" type="image/png" href="Lemy.png">
 	<body>
