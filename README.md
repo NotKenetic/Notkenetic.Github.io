@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title> NotKenetic </title>
+		<title>NotKenetic</title>
 	<meta charset="UTF-8">
 	<style>
 		h2 {
