@@ -5,7 +5,7 @@
     <title>NotKenetic</title>
   </head>
   <body>
-    <script src="node_modules/eruda/eruda.js"></script>
+    
 <script>eruda.init();</script>
     <header>
       <nav>
@@ -20,6 +20,8 @@
       <div class="hero-inner">
         <h1>Welcome to NotKenetic</h1>
         <p>Created by Lemy.</p>
+       <script src="node_modules/eruda/eruda.js"></script>
+        
         <a href="Slope.html" class="btn-primary">Slope</a>
          <a href="ovo3.html" class="btn-primary">OvO 3</a>
          <a href="windows.html" class="btn-primary">Windows</a>
@@ -51,20 +53,20 @@
       </div>
     </section>
     <section class="features">
-      <h2>Games</h2>
+     
       <div class="feature">
-        <h3>Friends</h3>
-        <p>A place for gamers to hangout</p>
+       
+        
       </div>
       <div class="feature">
-        <h3>Collaborate</h3>
-        <p>Play with others in the same game</p>
+        
       </div>
       <div class="feature">
-        <h3>Code Review</h3>
-        <p>Get feedback from your peers to improve your gaming skills</p>
+        
       </div>
     </section>
+    
+    
     <footer>
       <p>&copy; 2023 NotKenetic</p>
     </footer>
