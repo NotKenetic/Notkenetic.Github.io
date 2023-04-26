@@ -13,7 +13,7 @@
           <li><a href="games.html">Games</a></li>
           <li><a href="proxy2.html">Proxy 2</a></li>
           <li><a href="proxy.html">Proxy 1</a></li>
-          <li><a href="windows.html">windows</a></li>
+          <li><a href="windows.html">Windows</a></li>
           <li><a href="slope.html">Slope</a></li>
           <li><a href="10minstilldawn.html">10 mins till dawn</a></li>
            <li><a href="slope.html">Slope</a></li>
