@@ -10,8 +10,8 @@
       <nav>
         <ul>
           <li><a href="games.html">  Games</a></li>
-          <li><a href="proxy2.html">Proxies</a></li>
-          <li><a href="windows.html">Extras</a></li>
+          <li><a href="proxy2.html">Proxy 2</a></li>
+          <li><a href="proxy.html">Proxy 1</a></li>
         </ul>
       </nav>
     </header>
@@ -19,7 +19,10 @@
       <div class="hero-inner">
         <h1>Welcome to NotKenetic</h1>
         <p>Created by Lemy.</p>
-        <a href="#" class="btn-primary">Get Started</a>
+        <a href="Slope.html" class="btn-primary">Slope</a>
+         <a href="ovo3.html" class="btn-primary">OvO 3</a>
+         <a href="windows.html" class="btn-primary">Windows</a>
+        
       </div>
     </section>
     <section class="features">
