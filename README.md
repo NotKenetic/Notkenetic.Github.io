@@ -13,6 +13,11 @@
           <li><a href="games.html">Games</a></li>
           <li><a href="proxy2.html">Proxy 2</a></li>
           <li><a href="proxy.html">Proxy 1</a></li>
+          <li><a href="windows.html">windows</a></li>
+          <li><a href="slope.html">Slope</a></li>
+          <li><a href="10minstilldawn.html">10 mins till dawn</a></li>
+           <li><a href="slope.html">Slope</a></li>
+           <li><a href="slope.html">Slope</a></li>
         </ul>
       </nav>
     </header>
@@ -22,10 +27,7 @@
         <p>Created by Lemy.</p>
        <script src="node_modules/eruda/eruda.js"></script>
         
-        <a href="Slope.html" class="btn-primary">Slope</a>
-         <a href="ovo3.html" class="btn-primary">OvO 3</a>
-         <a href="windows.html" class="btn-primary">Windows</a>
-        <a href="10minstilldawn.html" class="btn-primary">10 Mins Till Dawn</a>
+        
         <style>
           a {
           color: red;
