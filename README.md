@@ -2,16 +2,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>GitHub Clone</title>
+    <title>NotKenetic</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header>
       <nav>
         <ul>
-          <li><a href="#">Games</a></li>
-          <li><a href="#">Proxies</a></li>
-          <li><a href="#">Extras</a></li>
+          <li><a href="games.html">Games</a></li>
+          <li><a href="proxy2.html">Proxies</a></li>
+          <li><a href="windows.html">Extras</a></li>
         </ul>
       </nav>
     </header>
