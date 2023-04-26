@@ -34,6 +34,11 @@
           color: red;
           font: Comic Sans;
           }
+          
+          h1 {
+          color: red;
+          font: Comic Sans;
+          }
         </style>
         
         
