@@ -16,8 +16,8 @@
           <li><a href="windows.html">Windows</a></li>
           <li><a href="slope.html">Slope</a></li>
           <li><a href="10minstilldawn.html">10 mins till dawn</a></li>
-           <li><a href="slope.html">Slope</a></li>
-           <li><a href="slope.html">Slope</a></li>
+           <li><a href="browser/1.html">Rammerhead</a></li>
+           <li><a href="browser/2.html">Rammerhead alt</a></li>
         </ul>
       </nav>
     </header>
