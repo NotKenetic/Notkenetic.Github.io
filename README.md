@@ -9,7 +9,7 @@
     <header>
       <nav>
         <ul>
-          <li><a href="games.html">Games</a></li>
+          <li><a href="games.html">  Games</a></li>
           <li><a href="proxy2.html">Proxies</a></li>
           <li><a href="windows.html">Extras</a></li>
         </ul>
