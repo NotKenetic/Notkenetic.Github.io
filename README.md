@@ -20,10 +20,10 @@
       <div class="hero-inner">
         <h1>Welcome to NotKenetic</h1>
         <p>Created by Lemy.</p>
-        <a>href="Slope.html" class="btn-primary">Slope</a>
-         <a>href="ovo3.html" class="btn-primary">OvO 3</a>
-         <a>href="windows.html" class="btn-primary">Windows</a>
-        <a>href="10minstilldawn.html" class="btn-primary">10 Mins Till Dawn</a>
+        <a href="Slope.html" class="btn-primary">Slope</a>
+         <a href="ovo3.html" class="btn-primary">OvO 3</a>
+         <a href="windows.html" class="btn-primary">Windows</a>
+        <a href="10minstilldawn.html" class="btn-primary">10 Mins Till Dawn</a>
         <style>
           a {
           color: red;
@@ -36,6 +36,12 @@
           }
           
           h1 {
+          color: red;
+          font: Comic Sans;
+          }
+          
+          
+         p {
           color: red;
           font: Comic Sans;
           }
