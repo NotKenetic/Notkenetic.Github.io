@@ -6,10 +6,12 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <script src="node_modules/eruda/eruda.js"></script>
+<script>eruda.init();</script>
     <header>
       <nav>
         <ul>
-          <li><a href="games.html">  Games</a></li>
+          <li><a href="games.html">Games</a></li>
           <li><a href="proxy2.html">Proxy 2</a></li>
           <li><a href="proxy.html">Proxy 1</a></li>
         </ul>
@@ -22,7 +24,7 @@
         <a href="Slope.html" class="btn-primary">Slope</a>
          <a href="ovo3.html" class="btn-primary">OvO 3</a>
          <a href="windows.html" class="btn-primary">Windows</a>
-        
+        <a href="10minstilldawn.html" class="btn-primary">10 Mins Till Dawn</a>
       </div>
     </section>
     <section class="features">
