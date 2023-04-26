@@ -25,6 +25,22 @@
          <a href="ovo3.html" class="btn-primary">OvO 3</a>
          <a href="windows.html" class="btn-primary">Windows</a>
         <a href="10minstilldawn.html" class="btn-primary">10 Mins Till Dawn</a>
+        
+        
+        
+        <style>
+          a {
+          color: red;
+          font: Comic Sans:
+          }
+          
+          li {
+          color: red;
+          font: Comic Sans;
+          }
+        </style>
+        
+        
       </div>
     </section>
     <section class="features">
