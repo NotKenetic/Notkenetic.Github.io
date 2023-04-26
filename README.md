@@ -23,14 +23,14 @@
       </div>
     </section>
     <section class="features">
-      <h2>Features</h2>
+      <h2>Games</h2>
       <div class="feature">
-        <h3>Version Control</h3>
+        <h3>Friends</h3>
         <p>A place for gamers to hangout</p>
       </div>
       <div class="feature">
-        <h3>Collaboration</h3>
-        <p>Work with others on the same game</p>
+        <h3>Collaborate</h3>
+        <p>Play with others in the same game</p>
       </div>
       <div class="feature">
         <h3>Code Review</h3>
