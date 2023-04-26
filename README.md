@@ -3,7 +3,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NotKenetic</title>
-    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <script src="node_modules/eruda/eruda.js"></script>
@@ -21,13 +20,10 @@
       <div class="hero-inner">
         <h1>Welcome to NotKenetic</h1>
         <p>Created by Lemy.</p>
-        <a href="Slope.html" class="btn-primary">Slope</a>
-         <a href="ovo3.html" class="btn-primary">OvO 3</a>
-         <a href="windows.html" class="btn-primary">Windows</a>
-        <a href="10minstilldawn.html" class="btn-primary">10 Mins Till Dawn</a>
-        
-        
-        
+        <a>href="Slope.html" class="btn-primary">Slope</a>
+         <a>href="ovo3.html" class="btn-primary">OvO 3</a>
+         <a>href="windows.html" class="btn-primary">Windows</a>
+        <a>href="10minstilldawn.html" class="btn-primary">10 Mins Till Dawn</a>
         <style>
           a {
           color: red;
