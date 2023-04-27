@@ -20,6 +20,10 @@
            <li><a href="browser/2.html">Rammerhead alt</a></li>
         </ul>
       </nav>
+      
+      <button style="background-color: black; border-radius: 10px; color: white;" onclick="window.open('https://notkenetic.github.io', '_blank');">Open in about:blank</button>
+      
+      
     </header>
     <section class="hero">
       <div class="hero-inner">
