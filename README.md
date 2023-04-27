@@ -21,7 +21,20 @@
         </ul>
       </nav>
       
- <style> button { background-color: #4CAF50; /* Green */ border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 20px; } </style> </head> <body> <button onclick="openGame()"> Open in about:blank</button> <script> function openGame() { var win = window.open() var url = "https://notkenetic.github.io" var iframe = win.document.createElement('iframe') iframe.style.width = "100%"; iframe.style.height = "100%"; iframe.style.border = "none"; iframe.src = url win.document.body.appendChild(iframe) } </script> </body>
+    <button onclick="openGame()"> Open in about:blank</button>
+<script>
+function openGame() {
+var win = window.open()
+var url = "https://notkenetic.github.io"
+var iframe = win.document.createElement('iframe')
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+iframe.src = url
+win.document.body.appendChild(iframe)
+}
+</script>
+
 
       
     </header>
