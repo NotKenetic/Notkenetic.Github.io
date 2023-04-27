@@ -21,7 +21,8 @@
         </ul>
       </nav>
       
-      <button style="background-color: black; border-radius: 10px; color: white;" onclick="window.open('https://notkenetic.github.io', '_blank');">Open in about:blank</button>
+      <button style="background-color: black; border-radius: 20px; padding: 10px; color: white;" onclick="window.open('about:blank').location.href='https://notkenetic.github.io'">Open in about:blank</button>
+
       
       
     </header>
