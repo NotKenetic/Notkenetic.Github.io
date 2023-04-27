@@ -46,6 +46,13 @@ win.document.body.appendChild(iframe)
         
         
         <style>
+          script {
+          color: black;
+          text-color: white;
+          }
+          
+          
+          
           a {
           color: red;
           font: Comic Sans:
