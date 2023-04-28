@@ -10,165 +10,32 @@
     <header>
       <nav>
         <ul>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/games.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
+          
           <li><a href="games.html">Games</a></li>
          
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/proxy2.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
           <li><a href="proxy2.html">Proxy 2</a></li>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/proxy.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
+      
           <li><a href="proxy.html">Proxy 1</a></li>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/windows.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
+       
           <li><a href="windows.html">Windows</a></li>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/windows.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
+         
           <li><a href="slope.html">Slope</a></li>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/slope.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
+          
           <li><a href="10minstilldawn.html">10 mins till dawn</a></li>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/10minstilldawn.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script> 
+          
           <li><a href="browser/1.html">Rammerhead</a></li>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/browser/1.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
+          
           
           <li><a href="browser/2.html">Rammerhead alt</a></li>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/browser/2.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
+          
           
           
           
           <li><a href="browser/3.html">Skylight</a></li>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/browser/3.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
+         
           
           <li><a href="browser/4.html">Skylight alt</a></li>
-          <button onclick="openGame()"> Open in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io/browser/4.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
+          
           
           
           
@@ -208,12 +75,12 @@ win.document.body.appendChild(iframe)
           
           
           a {
-          color: red;
+          color: black;
           font: Comic Sans:
           }
           
           li {
-          color: red;
+          color: blue;
           font: Comic Sans;
           }
           
@@ -224,7 +91,7 @@ win.document.body.appendChild(iframe)
           
           
          p {
-          color: red;
+          color: black;
           font: Comic Sans;
           }
         </style>
