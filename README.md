@@ -48,7 +48,7 @@
 <script>
 function openGame() {
 var win = window.open()
-var url = "https://notkenetic.github.io"
+var url = ""
 var iframe = win.document.createElement('iframe')
 iframe.style.width = "100%";
 iframe.style.height = "100%";
