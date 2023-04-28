@@ -24,8 +24,7 @@
           <li><a href="slope.html">Slope</a></li>
           
           <li><a href="10minstilldawn.html">10 mins till dawn</a></li>
-          
-          <li><a href="geforce.html">Geforce Now</a></li>
+       
           
           <li><a href="browser/5.html">Lunanom</a></li>
           
