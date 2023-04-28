@@ -18,6 +18,8 @@
           <li><a href="10minstilldawn.html">10 mins till dawn</a></li>
            <li><a href="browser/1.html">Rammerhead</a></li>
            <li><a href="browser/2.html">Rammerhead alt</a></li>
+          <li><a href="browser/3.html">Skylight</a></li>
+          <li><a href="browser/4.html">Skylight alt</a></li>
         </ul>
       </nav>
       
