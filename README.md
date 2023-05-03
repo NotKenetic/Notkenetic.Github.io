@@ -126,5 +126,4 @@ win.document.body.appendChild(iframe)
     <footer>
       <p>&copy; 2023 NotKenetic</p>
     </footer>
-  </body>
-</html>
+
