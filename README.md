@@ -64,7 +64,7 @@ iframe.style.border = "none";
 iframe.src = url
 win.document.body.appendChild(iframe)
 }
-
+</script>
 
 
       
