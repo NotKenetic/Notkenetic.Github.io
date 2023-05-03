@@ -107,8 +107,7 @@ win.document.body.appendChild(iframe)
         </style>
         
         
-      </div>
-    </section>
+      
     <section class="features">
      
       <div class="feature">
