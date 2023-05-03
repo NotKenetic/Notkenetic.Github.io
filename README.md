@@ -65,6 +65,15 @@ iframe.src = url
 win.document.body.appendChild(iframe)
 }
 </script>
+      
+      <button id="myButton">Open Cloaked</button>
+      <script>
+      
+      document.getElementById("myButton").addEventListener("click", function() {
+  window.open("about:blank");
+});
+
+        </script>
 
 
       
@@ -82,7 +91,10 @@ win.document.body.appendChild(iframe)
           text-color: white;
           }
           
-          
+          #myButton {
+  border-radius: 10px;
+          color: blue;
+}
           
           a {
           color: black;
