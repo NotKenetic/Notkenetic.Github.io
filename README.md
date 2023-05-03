@@ -19,6 +19,8 @@
        
           <li><a href="windows.html">Windows</a></li>
           
+          <li><a href="boxing-random.html">Boxing Random</a></li>
+          
           <li><a href="youtube.html">Youtube</a></li>  
           
           <li><a href="slope.html">Slope</a></li>
