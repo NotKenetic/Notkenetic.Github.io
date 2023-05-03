@@ -6,7 +6,6 @@
   </head>
   <body>
     
-<script>eruda.init();</script>
     <header>
       <nav>
         <ul>
