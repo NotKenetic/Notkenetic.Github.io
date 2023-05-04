@@ -44,11 +44,11 @@
           
           <li><a href="browser/4.html">Skylight alt</a></li>
           
-          <li><a href="browser/4.html">Skylight alt</a></li>
+          <li><a href="piclient.html">Eaglercraft PI-Client</a></li>
           
-          <li><a href="browser/4.html">Eaglercraft - 1.5</a></li>
+          <li><a href="1.5.html">Eaglercraft - 1.5</a></li>
           
-          <li><a href="browser/4.html">EaglercraftX - 1.8</a></li>
+          <li><a href="1.8.html">EaglercraftX - 1.8</a></li>
           
           
           
