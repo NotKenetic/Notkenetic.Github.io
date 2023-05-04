@@ -12,9 +12,8 @@
           
           <li><a href="games.html">Games</a></li>
          
-          <li><a href="proxy2.html">Proxy 2</a></li>
-      
-          <li><a href="proxy.html">Proxy 1</a></li>
+          <li><a href="proxy2.html">Proxy</a></li>
+ 
        
           <li><a href="windows.html">Windows</a></li>
           
@@ -44,6 +43,12 @@
          
           
           <li><a href="browser/4.html">Skylight alt</a></li>
+          
+          <li><a href="browser/4.html">Skylight alt</a></li>
+          
+          <li><a href="browser/4.html">Eaglercraft - 1.5</a></li>
+          
+          <li><a href="browser/4.html">EaglercraftX - 1.8</a></li>
           
           
           
