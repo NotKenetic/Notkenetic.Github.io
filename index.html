@@ -1,141 +1,61 @@
-<html lang="en">
-  <title>Classes</title>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/x-icon" href="classes.png">
-  </head>
-  <body>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background: linear-gradient(to bottom right, blue, purple);
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
     
-    <header>
-      <nav>
-        <ul>
-          
-          <li><a href="games.html">Games</a></li>
-         
-          <li><a href="proxy2.html">Proxy</a></li>
-          
-          <li><a href="google">Google Unblocked</a></li>
- 
-       
-          <li><a href="windows.html">Windows</a></li>
-          
-          <li><a href="boxing-random.html">Boxing Random</a></li>
-          
-          <li><a href="basket-random.html">Basket Random</a></li>
-          
-          <li><a href="soccer-random.html">Soccer Random</a></li>
-          
-          
-          <li><a href="youtube.html">Youtube</a></li>  
-          
-          <li><a href="slope.html">Slope</a></li>
-          
-          <li><a href="10minstilldawn.html">10 mins till dawn</a></li>
-       
-      
-          
-          <li><a href="browser/5.html">Lunanom</a></li>
-          
-          <li><a href="browser/6.html">Lunanom alt</a></li>
-          
-          <li><a href="browser/1.html">Rammerhead</a></li>
-          
-          
-          <li><a href="browser/2.html">Rammerhead alt</a></li>
-          
-          
-          
-          
-          <li><a href="browser/3.html">Skylight</a></li>
-         
-          
-          <li><a href="browser/4.html">Skylight alt</a></li>
-          
-          <li><a href="piclient.html">Eaglercraft PI-Client</a></li>
-          
-          <li><a href="1.5.html">Eaglercraft - 1.5</a></li>
-          
-          <li><a href="1.8.html">EaglercraftX - 1.8</a></li>
-          
-          
-          
-          
-        </ul>
-      </nav>
-      
-    <button onclick="openGame()"> Open this tab in about:blank</button>
-<script>
-function openGame() {
-var win = window.open()
-var url = "https://notkenetic.github.io"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-</script>
-
-
-      
-    </header>
-    <section class="hero">
-      <div class="hero-inner">
-        <h1>Welcome to NotKenetic</h1>
-        <p>Created by Lemy.</p>
-       <script src="node_modules/eruda/eruda.js"></script>
-        
-        
-        <style>
-          script {
-          color: black;
-          text-color: white;
-          }
-          
-         
-          
-          a {
-          color: black;
-          font: Comic Sans:
-          }
-          
-          li {
-          color: blue;
-          font: Comic Sans;
-          }
-          
-          h1 {
-          color: red;
-          font: Comic Sans;
-          }
-          
-          
-         p {
-          color: black;
-          font: Comic Sans;
-          }
-        </style>
-        
-        
-      
-    <section class="features">
-     
-      <div class="feature">
-       
-        
-      </div>
-      <div class="feature">
-        
-      </div>
-      <div class="feature">
-        
-      </div>
-    </section>
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
     
+    h1 {
+      color: white;
+      font-size: 48px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
     
-    <footer>
-      <p>&copy; 2023 NotKenetic</p>
-    </footer>
-
+    .button-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 0 10px;
+      background-color: white;
+      border-radius: 5px;
+      text-decoration: none;
+      color: blue;
+      font-size: 18px;
+      transition: background-color 0.3s ease;
+    }
+    
+    .button:hover {
+      background-color: purple;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to NotKenetic</h1>
+    <div class="button-container">
+      <a class="button" href="basketball-stars">Basketball Stars</a>
+      <a class="button" href="basket-random">Basket Random</a>
+      <a class="button" href="boxing-random">Boxing Random</a>
+    </div>
+  </div>
+</body>
+</html>
