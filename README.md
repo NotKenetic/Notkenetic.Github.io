@@ -1,4 +1,4 @@
-NotKenetic Website Update (Version 1.1) 🚀
+# NotKenetic Website Update (Version 1.1) 🚀
 Welcome to the latest update of the NotKenetic website! We are excited to introduce several enhancements and optimizations aimed at providing you with an even better gaming experience. With this release (Version 1.1), we have focused on improving performance and eliminating lag, ensuring that you can fully immerse yourself in the world of games without any interruptions.
 
 What's New 🎉
